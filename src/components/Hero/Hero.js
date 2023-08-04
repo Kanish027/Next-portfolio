@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Hi there, I am Kanish Mohariya and I am a full stack web developer, with 3 months of experience as a Intern at Trickysys IT Solutions and I am  looking for web development job opportunities to kickstart my carrier.
       </SectionText>
-      <Button onClick={()=> window.location="mailto:mohariyabunty@gmail.com"} >Hire Me</Button>
+      <Button onClick={()=> window.location="mailto:kanishmohariya1@gmail.com"} >Hire Me</Button>
     </LeftSection>
   </Section>
 );

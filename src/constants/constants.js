@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'React Cart',
-    description: "The React Cart is a web application built using the React JavaScript library. It allows users to create a virtual shopping cart to add and manage items they wish to purchase. The cart provides a smooth and interactive user experience, making it easy for customers to browse through products.",
-      image: '/images/react-cart.png',
-      tags: ['React', 'JavaScript'],
-    source: 'https://shopping-cart-ten-blue.vercel.app',
-    visit: 'https://github.com/Kanish027/react-cart',
+    title: 'MERN PROJECT',
+    description: "The Workout Head App is a CRUD based web applications built by using MERN stack. It is a fully responsive web application which provides smooth and interactive experience to the users. This web app provides the features of Creating, Updating and Deleting the Workout Details to the users. The Frontend of this app is built by using ReactJs, and the Backend is built by using NodeJs and ExpressJs and all the workout details is stored in MongoDB Database.",
+      image: '/images/Workout_img.png',
+      tags: ['Node', 'Express', 'MongoDB', 'React'],
+    source: 'https://flourishing-lokum-9ca12d.netlify.app/',
+    visit: 'https://github.com/Kanish027/workoutheadfrontend',
     id: 0,
   },
   {
@@ -16,6 +16,15 @@ export const projects = [
     source: 'https://mor-mitan-project.vercel.app/',
     visit: 'https://github.com/Kanish027/MorMitan-Project',
     id: 1,
+  },
+  {
+    title: 'React Cart',
+    description: "The React Cart is a web application built using the React JavaScript library. It allows users to create a virtual shopping cart to add and manage items they wish to purchase. The cart provides a smooth and interactive user experience, making it easy for customers to browse through products.",
+      image: '/images/react-cart.png',
+      tags: ['React', 'JavaScript'],
+    source: 'https://shopping-cart-ten-blue.vercel.app',
+    visit: 'https://github.com/Kanish027/react-cart',
+    id: 0,
   },
   {
     title: 'Blog App',
